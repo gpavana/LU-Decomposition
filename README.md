@@ -45,7 +45,7 @@ RegisterNumber: 212222230105
 ## output  for finding  the L and U matrix.
 ![land u](https://github.com/gpavana/LU-Decomposition/assets/118787343/860278fe-83a2-455b-9359-dd4c111c581d)
 ## output for finding the LU Decomposition of a matrix
-![LU Decomposition ](pro2.png)
+![image](https://github.com/gpavana/LU-Decomposition/assets/118787343/ef89f5f6-8f02-4a3f-8090-2e37acc068d9)
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
