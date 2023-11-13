@@ -43,7 +43,7 @@ RegisterNumber: 212222230105
 ```
 ## Output:
 ## output  for finding  the L and U matrix.
-![LU Decomposition ](pro1.png)
+![land u](https://github.com/gpavana/LU-Decomposition/assets/118787343/860278fe-83a2-455b-9359-dd4c111c581d)
 ## output for finding the LU Decomposition of a matrix
 ![LU Decomposition ](pro2.png)
 ## Result:
